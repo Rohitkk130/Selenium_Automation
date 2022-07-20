@@ -84,6 +84,11 @@
                 <configuration>
                     <suiteXmlFiles>
                         <suiteXmlFile>testnghrm.xml</suiteXmlFile>
+                        <suiteXmlFile>testnghrm.xml</suiteXmlFile>
+                        
+
+                        
+
                         <!-- <suiteXmlFile>testng_crossBrowserTesting_parallel.xml</suiteXmlFile> -->
                     </suiteXmlFiles>
                 </configuration>
